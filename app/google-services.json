@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46736733421",
+    "firebase_url": "https://livesms-3ed2b.firebaseio.com",
+    "project_id": "livesms-3ed2b",
+    "storage_bucket": "livesms-3ed2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46736733421:android:221b4b24bc7cca1e",
+        "android_client_info": {
+          "package_name": "com.example.talentmicro.smsgold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46736733421-k675lghe4495mqai3mlt9kk1o44vg6k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talentmicro.smsgold",
+            "certificate_hash": "ff255da11bfa6f212c7ce7c22780f6f208d407b1"
+          }
+        },
+        {
+          "client_id": "46736733421-gev3aoojjqqstq33r2on96v26sgki45i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRAAEZ9yJNvGfutLcD5EHvYH8plxXh_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46736733421-gev3aoojjqqstq33r2on96v26sgki45i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

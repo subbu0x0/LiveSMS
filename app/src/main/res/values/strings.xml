@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Live SMS</string>
+    <string name="logout">Logout</string>
+    <string name="profile_settings">Profile Settings</string>
+</resources>
